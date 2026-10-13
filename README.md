@@ -1,41 +1,38 @@
-<h1 align="center">Hola, soy Jorge Steven 👋</h1>
-<h3 align="center">Desarrollador Backend / Full Stack · Java · Spring Boot · Angular</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jorge%20Steven&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%2F%20Full%20Stack%20Developer&descAlignY=58&descSize=20" />
+
+<p align="center">
+  <a href="https://github.com/jorgeStevenR">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+APIs+%E2%98%95;Angular+%2B+TypeScript+frontends+%F0%9F%85%B0%EF%B8%8F;Real-time+con+WebSockets+%E2%9A%A1;Docker+%C2%B7+AWS+%C2%B7+CI%2FCD+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jorgeStevenR&style=flat-square&color=36BCF7&label=Visitas" />
+  <img src="https://img.shields.io/github/followers/jorgeStevenR?style=flat-square&color=36BCF7&label=Followers" />
+</p>
 
 ---
 
 ### 🧑‍💻 Sobre mí
 
-- Construyo **APIs REST con Spring Boot (Java 21)** y frontends en **Angular / TypeScript**.
-- Me interesa la arquitectura backend, la seguridad (JWT, hashing de contraseñas) y el despliegue con **Docker**.
-- He construido proyectos en tiempo real con **WebSockets** y apps full stack de punta a punta.
-- 🌱 Actualmente aprendiendo: Cloud Computing y CI/CD.
+```java
+public class JorgeSteven {
+    String role       = "Backend / Full Stack Developer";
+    String[] backend  = {"Java 21", "Spring Boot 3", "Python", "JWT"};
+    String[] frontend = {"Angular", "TypeScript", "Phaser 3"};
+    String[] cloud    = {"AWS", "Docker", "GitHub Actions"};
+    String learning   = "Cloud Computing & CI/CD";
+}
+```
+
+- ⚙️ Construyo **APIs REST con Spring Boot** y frontends en **Angular**.
+- 🔐 Me interesa la arquitectura backend, la seguridad (JWT, hashing) y el despliegue con **Docker**.
+- ⚡ He construido juegos multijugador en tiempo real con **WebSockets**.
 
 ### 🛠️ Tecnologías
 
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Phaser_3-8A2BE2?style=flat-square" />
-</p>
-
-**Cloud, bases de datos y DevOps**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,angular,ts,js,aws,docker,mongodb,mysql,postgres,githubactions,git,linux&perline=7" />
 </p>
 
 ### 🚀 Proyectos destacados
@@ -43,7 +40,7 @@
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [**Albion Treasury**](https://github.com/jorgeStevenR/albion-back) · [front](https://github.com/jorgeStevenR/albion-front) | Sistema de tesorería para un gremio: balance, multas, solicitudes y dashboard. | Spring Boot · Angular · Docker · GitHub Actions |
-| [**Bomberman Multijugador**](https://github.com/jorgeStevenR/bomberman) | Juego multijugador en tiempo real (proyecto de Cloud Computing). | Spring Boot · WebSockets · Phaser 3 |
+| [**Bomberman Multijugador**](https://github.com/jorgeStevenR/bomberman) | Juego multijugador en tiempo real con arquitectura tipo AWS (proyecto de Cloud Computing). | Spring Boot · WebSockets · Phaser 3 |
 | [**Task Manager**](https://github.com/jorgeStevenR/task-manager-api) · [front](https://github.com/jorgeStevenR/task-manager-front) | Gestor de tareas full stack con API REST. | Java 21 · Spring Boot 3 · Angular · Docker |
 | [**Sistema de Préstamos**](https://github.com/jorgeStevenR/prueba-makers) | API de gestión de préstamos con registro de usuarios + app web. | Spring Boot · Angular |
 | [**Fullstack JWT App**](https://github.com/jorgeStevenR/prueba-tecnica-fullstack) | Autenticación con JWT y gestión de datos, orquestado con Docker Compose. | Python · Docker · JWT |
@@ -52,6 +49,25 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jorgeStevenR&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeStevenR&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jorgeStevenR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeStevenR&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jorgeStevenR&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jorgeStevenR&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+### 🐍 Mis contribuciones
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jorgeStevenR/jorgeStevenR/output/github-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/jorgeStevenR/jorgeStevenR/output/github-snake.svg" />
+  </picture>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
