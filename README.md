@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jorgeStevenR&style=flat-square&color=36BCF7&label=Visitas" />
   <img src="https://img.shields.io/github/followers/jorgeStevenR?style=flat-square&color=36BCF7&label=Followers" />
 </p>
 
@@ -55,10 +54,6 @@ public class JorgeSteven {
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jorgeStevenR&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jorgeStevenR&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ### 🐍 Mis contribuciones
