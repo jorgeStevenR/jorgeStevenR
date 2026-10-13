@@ -45,17 +45,6 @@ public class JorgeSteven {
 | [**Fullstack JWT App**](https://github.com/jorgeStevenR/prueba-tecnica-fullstack) | Autenticación con JWT y gestión de datos, orquestado con Docker Compose. | Python · Docker · JWT |
 | [**Buscador de Eventos**](https://github.com/jorgeStevenR/pacial-frameworks) | App full stack que consume la Google Events API. | Backend + Frontend · API externa |
 
-### 📊 Estadísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jorgeStevenR&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeStevenR&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jorgeStevenR&theme=tokyonight&hide_border=true" />
-</p>
-
 ### 🐍 Mis contribuciones
 
 <p align="center">
